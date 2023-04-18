@@ -1,1 +1,1 @@
-#  A calculator Android application using Jetpack compose.
+#  A calculator Android application using Kotlin and  Jetpack compose.
